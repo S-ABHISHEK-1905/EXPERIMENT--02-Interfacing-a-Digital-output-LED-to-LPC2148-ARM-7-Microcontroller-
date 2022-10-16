@@ -146,6 +146,9 @@ int main()
 ~~~
 
 ## Output screen shots :
+#### LED OFF :
+![image](https://user-images.githubusercontent.com/66360846/196018390-f3ff4f9e-23b6-4506-8b3a-125c9ae6605d.png)
+
 #### LED ON :
 ![image](https://user-images.githubusercontent.com/66360846/195994347-ee99657a-1030-4272-a03f-f77fe6674e9c.png)
 
